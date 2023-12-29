@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Victoria Kafifi</title>
-	<atom:link href="http://localhost/victoriakafifi/feed/?simply_static_page=144" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/victoriakafifi/feed/?simply_static_page=184" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Dec 2023 12:33:07 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 	<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+					<comments>/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[victoria.kafifi]]></dc:creator>
 		<pubDate>Fri, 29 Dec 2023 11:51:47 +0000</pubDate>
@@ -39,7 +39,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
