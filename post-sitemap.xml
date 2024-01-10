@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-01-08T19:24:41+00:00</lastmod>
+		<lastmod>2024-01-10T15:33:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/queen-elizabeth-ii-award-for-british-designers/</loc>
@@ -102,6 +102,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/IMG_8928.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/uniting-against-racism-and-police-brutality-with-black-lives/</loc>
+		<lastmod>2024-01-10T15:33:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_0978-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_0979-scaled-e1704899517462.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/6F3A8340-F7E3-4AAD-A7A6-D342DCD05216.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_1009-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
