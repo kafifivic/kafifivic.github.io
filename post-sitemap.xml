@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-01-10T15:33:54+00:00</lastmod>
+		<lastmod>2024-01-11T14:52:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/queen-elizabeth-ii-award-for-british-designers/</loc>
@@ -111,13 +111,57 @@
 			<image:loc>/wp-content/uploads/2024/01/IMG_0978-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/IMG_0979-scaled-e1704899517462.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/IMG_0979.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/6F3A8340-F7E3-4AAD-A7A6-D342DCD05216.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/IMG_1009-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/must-visit-destinations-in-namibia/</loc>
+		<lastmod>2024-01-10T23:32:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/F8E9321F-45BF-4DA2-83D7-E9BB809BDF3B.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_0877-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_1284-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_1100-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_0479-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_0454.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_1543.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-importance-of-arts-education-inspirational-interview/</loc>
+		<lastmod>2024-01-11T14:52:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_20180622_211212_787.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/a3352688-7e69-4daa-be69-468cf74eb23d.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/6889cb99-2606-4a79-ab06-8dfad28d4fbf.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/5b1f617d-c7f1-4b1e-9190-689038599445.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG-20180622-WA0021.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
