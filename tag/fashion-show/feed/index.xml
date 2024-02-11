@@ -9,7 +9,7 @@
 
 <channel>
 	<title>fashion show Archives - Victoria Kafifi</title>
-	<atom:link href="http://localhost/victoriakafifi/tag/fashion-show/feed/?simply_static_page=3613" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/victoriakafifi/tag/fashion-show/feed/?simply_static_page=4047" rel="self" type="application/rss+xml" />
 	<link>/tag/fashion-show/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Jan 2024 19:23:28 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>The Evolution of Fashion Shows: Age-Inclusive Elegance</title>
 		<link>/how-have-fashion-shows-evolved/</link>

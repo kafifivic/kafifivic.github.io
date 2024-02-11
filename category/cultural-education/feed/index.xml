@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Cultural education Archives - Victoria Kafifi</title>
-	<atom:link href="http://localhost/victoriakafifi/category/cultural-education/feed/?simply_static_page=3516" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/victoriakafifi/category/cultural-education/feed/?simply_static_page=3925" rel="self" type="application/rss+xml" />
 	<link>/category/cultural-education/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Jan 2024 18:56:28 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Barbie Dolls Redefining Representation</title>
 		<link>/barbie-dolls-redefining-representation/</link>
