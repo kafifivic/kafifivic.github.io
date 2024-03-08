@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-02-11T17:45:41+00:00</lastmod>
+		<lastmod>2024-03-08T12:45:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/queen-elizabeth-ii-award-for-british-designers/</loc>
@@ -197,6 +197,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/IMG_4385.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/empowering-women-celebrating-international-womens-day/</loc>
+		<lastmod>2024-03-08T12:45:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/IMG_20180930_3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/A164CE0B-2E3A-4F70-A809-0335F19F4257-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
